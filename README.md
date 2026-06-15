@@ -1,3 +1,7 @@
+<img width="1019" height="916" alt="image" src="https://github.com/user-attachments/assets/35043aad-68af-4e90-81c6-76982955f2e1" />
+
+Study listening to [Free Focus Music](https://celso.is/adhd) on my site :)
+
 # Rails Mid-Level Interview Prep
 
 A ready-to-use flashcard deck and mock-interview workflow for preparing for a **mid-level Ruby on Rails technical interview**.
